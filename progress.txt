@@ -1,0 +1,5 @@
+https://mlcourse.ai/book/topic01/videolecture01.html
+
+11:41 video lecture 01
+
+download anaconda, and jupyter notebook on mac
